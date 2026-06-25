@@ -1,5 +1,7 @@
 # StepNumberChange(SNC)
 
+[🌐 English Version](https://github.com/EEEugene/StepNumberChangeSNC/blob/main/README_EN.md)
+
 2026.06.06更新，已处理问题，目前可以正常使用，以下点请注意：<br>
 1、目前只测试过邮箱，手机号的朋友们可以自行测试，有问题的话提Issue；<br>
 2、将自己的邮箱填在第八行，密码填在第九行；<br>
